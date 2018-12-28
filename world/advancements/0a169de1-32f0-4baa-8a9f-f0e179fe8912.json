@@ -1,0 +1,279 @@
+{
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2018-12-26 04:46:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-26 04:36:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2018-12-26 23:29:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2018-12-26 04:23:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2018-12-26 04:49:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2018-12-26 04:49:32 +0100",
+      "minecraft:zombie": "2018-12-26 05:10:35 +0100",
+      "minecraft:creeper": "2018-12-26 05:14:34 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-12-26 23:16:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-12-27 00:32:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2018-12-26 04:32:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2018-12-27 00:50:18 +0100",
+      "minecraft:cold_ocean": "2018-12-26 23:55:57 +0100",
+      "minecraft:snowy_mountains": "2018-12-27 04:23:05 +0100",
+      "minecraft:forest": "2018-12-26 04:22:04 +0100",
+      "minecraft:mountains": "2018-12-27 00:08:14 +0100",
+      "minecraft:taiga": "2018-12-26 04:21:18 +0100",
+      "minecraft:desert_hills": "2018-12-26 04:21:30 +0100",
+      "minecraft:giant_tree_taiga": "2018-12-27 04:28:05 +0100",
+      "minecraft:deep_cold_ocean": "2018-12-27 04:28:36 +0100",
+      "minecraft:snowy_tundra": "2018-12-27 00:50:19 +0100",
+      "minecraft:taiga_hills": "2018-12-27 00:11:55 +0100",
+      "minecraft:desert": "2018-12-26 04:21:27 +0100",
+      "minecraft:frozen_river": "2018-12-27 00:50:20 +0100",
+      "minecraft:deep_frozen_ocean": "2018-12-26 23:55:46 +0100",
+      "minecraft:jungle": "2018-12-26 04:16:47 +0100",
+      "minecraft:birch_forest": "2018-12-27 00:01:19 +0100",
+      "minecraft:jungle_hills": "2018-12-27 00:49:47 +0100",
+      "minecraft:snowy_beach": "2018-12-27 04:16:56 +0100",
+      "minecraft:warm_ocean": "2018-12-27 04:17:06 +0100",
+      "minecraft:deep_lukewarm_ocean": "2018-12-27 04:16:36 +0100",
+      "minecraft:badlands": "2018-12-27 00:08:49 +0100",
+      "minecraft:savanna_plateau": "2018-12-26 04:21:41 +0100",
+      "minecraft:beach": "2018-12-26 23:56:00 +0100",
+      "minecraft:dark_forest": "2018-12-27 00:02:16 +0100",
+      "minecraft:river": "2018-12-26 04:21:29 +0100",
+      "minecraft:lukewarm_ocean": "2018-12-27 00:08:41 +0100",
+      "minecraft:snowy_taiga": "2018-12-27 04:12:41 +0100",
+      "minecraft:birch_forest_hills": "2018-12-27 00:01:55 +0100",
+      "minecraft:wooded_mountains": "2018-12-27 00:08:39 +0100",
+      "minecraft:wooded_hills": "2018-12-26 04:21:56 +0100",
+      "minecraft:stone_shore": "2018-12-27 00:08:42 +0100",
+      "minecraft:giant_tree_taiga_hills": "2018-12-27 04:28:01 +0100",
+      "minecraft:swamp": "2018-12-27 00:02:19 +0100",
+      "minecraft:snowy_taiga_hills": "2018-12-27 04:27:26 +0100",
+      "minecraft:savanna": "2018-12-26 04:21:38 +0100",
+      "minecraft:plains": "2018-12-26 04:21:46 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2018-12-26 04:56:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2018-12-26 04:46:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2018-12-26 04:55:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-12-27 04:15:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2018-12-26 04:36:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-12-26 04:54:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2018-12-26 04:46:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2018-12-26 04:46:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2018-12-26 04:31:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-26 04:36:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-12-27 00:32:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-26 04:36:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2018-12-27 00:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-12-27 00:32:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-12-26 04:36:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-12-27 00:32:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2018-12-26 04:36:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2018-12-26 23:14:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2018-12-26 04:36:51 +0100"
+    },
+    "done": true
+  }
+}
